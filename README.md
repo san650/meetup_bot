@@ -27,4 +27,4 @@ Steps to release the application
 
 1. Run `mix release`
 
-change 1
+change 2
