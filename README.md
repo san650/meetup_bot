@@ -26,3 +26,5 @@ Steps to run the application in development
 Steps to release the application
 
 1. Run `mix release`
+
+change 1
